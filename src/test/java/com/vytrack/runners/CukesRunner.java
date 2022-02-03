@@ -15,5 +15,4 @@ import org.junit.runner.RunWith;
         tags = "@login"
 )
 public class CukesRunner {
-
 }
